@@ -42,3 +42,5 @@ Spark's functionality is to process logs in realtime and analyse patterns that e
 _**_Visualization_**_
 
 This is the frontend module of the project where data visualization would be done. The aggregated results received from Spark are written to another Kafka Topic. Then, dynamic plots are drawn using data from the kafka stream. Implementation and thorough explanation is provided in the [frontend](https://github.com/sharathbhargav/CS441-Project/tree/main/frontend) repository.
+
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/stoic-devv">Aditya Kanthale</a>,<a href="https://github.com/parth-d"> Parth Deshpande</a>,<a href="https://github.com/JeetMehta99"> Jeet Mehta</a>,<a href="https://github.com/sharathbhargav"> Sharath Bhargav</a> and <a href="https://github.com/harshm16">Harsh Mishra</a>.</b></h1>
